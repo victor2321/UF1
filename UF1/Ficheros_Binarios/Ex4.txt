@@ -1,0 +1,7 @@
+4. Vuelve a ejecutar los problemas anteriores pero en los pasos intermedios
+trata de leer el fichero "FicheroDatos.dat" con algún editor de texto del
+sistema. ¿Qué pasa?
+
+ - Si intentamos abrir el fichero con un editor de texto,
+los datos binarios no los puede leer y nos puede dar error al intentar abrirlo o bien no sale una cadena de caracteres
+o simbolos que no podemos interpretar.
